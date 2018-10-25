@@ -1,2 +1,3 @@
 Infra-agil
 Linha adicionada lá na máquina docker.dexter.com.br
+segue texto adicionado para o git.
