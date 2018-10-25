@@ -1,0 +1,2 @@
+"Being an enthusiast for intuitive and seamless UIs, I was immediately drawn to this tool. When you start diving deeper, you realize the remarkable user experience that the developers at Axosoft have created."
+Easily initialize a brand new project and use the built-in code editor to start working on that project. Add new files and folders, and edit them directly in GitKraken. Save your files, stage and commit your changes. No more context switching!
